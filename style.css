@@ -178,7 +178,7 @@ input[type="submit"]:active
 @media only screen and (max-width: 600px) {
 .box{
 		margin: auto;
-		position: relative;
+		position: fixed;
 		width: 380px;
 		height: 420px;
 		background: #1c1c1c;
